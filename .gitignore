@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies (none used by this static site, kept for safety)
+node_modules/
+
+# Editor
+.vscode/
+.idea/
+
